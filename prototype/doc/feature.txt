@@ -1,1 +1,16 @@
-1. debug 
+Should
+1) Run ezp unit test
+ - run unit test from right click menu in project explorer and edit panel.
+ - run unit test from class. (There might be relationship between class and unit test so that eztester can know the test to run, reflection?)
+ - output unit test result (might be possible to use phpunit plugin)
+
+2) debug
+ - break point, show debug variable value, watch value
+ - identify error from debug message (might be possible to use phpunit plugin)
+
+
+Would
+1) Generate test case
+
+
+Might
