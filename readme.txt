@@ -1,4 +1,4 @@
-eZ Tester is a IDE plugin for eZ Publish Unit Test. Initially it supports NetBeans.
+eZ Tester is an IDE plugin for eZ Publish Unit Test. Initially it supports NetBeans.
 
 Status: prototype
 
